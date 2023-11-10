@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "882029830810",
+    "project_id": "bitcellpay-d9103",
+    "storage_bucket": "bitcellpay-d9103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882029830810:android:e6408ca9fd34cc7a927523",
+        "android_client_info": {
+          "package_name": "com.mrblab.quizhour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882029830810-d5fkgncnotaqk2l36mqg5nk3aad9pg6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiHvqvWQyqVwVoyEX93Evq0aRtq-2YpoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882029830810-d5fkgncnotaqk2l36mqg5nk3aad9pg6k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "882029830810-md2kkr2m1987qjtvp2qs9f4vcepni132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.vlab.com.localCoin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882029830810:android:d4546417359e68f4927523",
+        "android_client_info": {
+          "package_name": "dev.vlab.com.local_coin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882029830810-d5fkgncnotaqk2l36mqg5nk3aad9pg6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiHvqvWQyqVwVoyEX93Evq0aRtq-2YpoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882029830810-d5fkgncnotaqk2l36mqg5nk3aad9pg6k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "882029830810-md2kkr2m1987qjtvp2qs9f4vcepni132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.vlab.com.localCoin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
